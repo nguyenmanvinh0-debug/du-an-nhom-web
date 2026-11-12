@@ -16,7 +16,7 @@ Theo tài liệu đặc tả **Nhóm 9.docx** (Mục 5):
 | **Lư Quốc Thắng** | Quản lý bàn, khu vực & đặt bàn | `F14` → `F26` | [BanVaDatBan.aspx](N9_QLCAFE/N9_QLCAFE/BanVaDatBan.aspx) |
 | **Lê Văn Điều** | Gọi món (POS), đơn hàng & thanh toán | `F27` → `F44` | [GoiMonThanhToan.aspx](N9_QLCAFE/N9_QLCAFE/GoiMonThanhToan.aspx) |
 | **Nguyễn Nhật Anh** | Tài khoản, phân quyền, nhân viên & thống kê | `F01` → `F05`, `F45` → `F58` | [NhanVienTaiKhoan.aspx](N9_QLCAFE/N9_QLCAFE/NhanVienTaiKhoan.aspx), [Default.aspx](N9_QLCAFE/N9_QLCAFE/Default.aspx) |
-| **Mẫn Vinh** | Kiểm thử, nghiệm thu quy tắc & báo lỗi | `NF01` → `NF08`, Test Cases | [KiemThuNghiemThu.aspx](N9_QLCAFE/N9_QLCAFE/KiemThuNghiemThu.aspx), [Login.aspx](N9_QLCAFE/N9_QLCAFE/Login.aspx) |
+| **Nguyễn Mẫn Vinh** | Kiểm thử, nghiệm thu quy tắc & báo lỗi | `NF01` → `NF08`, Test Cases | [KiemThuNghiemThu.aspx](N9_QLCAFE/N9_QLCAFE/KiemThuNghiemThu.aspx), [Login.aspx](N9_QLCAFE/N9_QLCAFE/Login.aspx) |
 
 ---
 
